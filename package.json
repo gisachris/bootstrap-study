@@ -4,7 +4,7 @@
   "description": "taking a real study at bootstrap and sass ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass-compiler":"sass --watch assets/dist/scss:assets/dist/css"
   },
   "keywords": [
     "bootstrap",
