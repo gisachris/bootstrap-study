@@ -1,13 +1,6 @@
-.text {
-  color: red;
-}
-
-.books {
-  color: red;
-}
-
-.cows {
-  color: red;
-}
-
-/*# sourceMappingURL=style-config.css.map */
+.div {
+  width: 100%;
+  height: 300px;
+  background-image: url(/images/act/lawyertop.png);
+  background-size: cover;
+}/*# sourceMappingURL=style-config.css.map */
